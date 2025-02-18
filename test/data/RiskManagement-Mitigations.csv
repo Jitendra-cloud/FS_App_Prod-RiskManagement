@@ -1,0 +1,5 @@
+ID,owner,timeline,createdAt,createdBy,description,riskManagement_Risks_ID
+20466921-7d57-4e76-b14c-e53fd97dcb11,Alex Rodriguez,Q4 2022,27-04-2021,max.mustermann@muster.com,SLA violation: authorize account manager to offer service credits for recent delivery issues,20466922-7d57-4e76-b14c-e53fd97dcb11
+20466921-7d57-4e76-b14c-e53fd97dcb12,Brad Piston,Q4 2022,27-04-2021,max.mustermann@muster.com,SLA violation: review third party contractors to ease service delivery challenges,20466922-7d57-4e76-b14c-e53fd97dcb12
+20466921-7d57-4e76-b14c-e53fd97dcb13,Joe Martin,29.03.2023,27-04-2021,max.mustermann@muster.com,Embargo violation: investigate source of shipment request revoke authorization,20466922-7d57-4e76-b14c-e53fd97dcb13
+20466921-7d57-4e76-b14c-e53fd97dcb14,Angela Rickman,01.03.2023,27-04-2021,max.mustermann@muster.com,Embargo violation: review shipment proceedure and stop delivery until further notice,20466922-7d57-4e76-b14c-e53fd97dcb13
